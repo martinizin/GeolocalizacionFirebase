@@ -7,7 +7,7 @@ Implementación de servicio de obtención de latitud y longitud con el uso de pl
 Clona el proyecto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/martinizin/GeolocalizacionFirebase.git
 ```
 
 Posiciónate la carpeta del proyecto
@@ -56,4 +56,16 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
   }
 ```
 
-## 🖼️ Screenshots de funcionamiento del proyecto
+##  Screenshots de funcionamiento del proyecto
+
+- LOCAL
+
+  ![image](https://github.com/martinizin/GeolocalizacionFirebase/assets/117743846/7e555b4d-3f29-409e-b94f-545a3612eab5)
+
+- HOSTING
+
+- ALMACENAMIENTO EN FIREBASE
+
+  ![image](https://github.com/martinizin/GeolocalizacionFirebase/assets/117743846/2a2253d6-aff6-4332-b51c-f2b7eee18174)
+
+
