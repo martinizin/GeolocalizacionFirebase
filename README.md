@@ -1,6 +1,6 @@
-#  CV con Hosting en Firebase
+#  Geolocalización con firebase
 
-Curriculum con deploy en firestore.
+Implementación de servicio de obtención de latitud y longitud con el uso de plugins y almacenamiento de coordenadas con el servicio de storage de Firebase.
 
 ## ⏬ Instalacion
 
